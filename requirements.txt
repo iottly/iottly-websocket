@@ -1,0 +1,5 @@
+sockjs-tornado==1.0.0
+tornado==3.2.2
+ujson==1.33
+pika
+prettysettings
