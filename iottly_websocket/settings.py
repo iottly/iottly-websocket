@@ -24,6 +24,7 @@ defaults = dict(
 
     # MongoDB settings
     RABBITMQ_HOST = 'rabbitmq',
+    QUEUE_NAME = 'websocketqueue',
     debug = True,
 
 
