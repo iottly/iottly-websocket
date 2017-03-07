@@ -15,6 +15,12 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 """
+
+# TODO: refactor with suggested approach:
+# http://pika.readthedocs.io/en/0.10.0/examples/tornado_consumer.html
+
+# TODO: fix reconnection
+
 import json
 import logging
 import os
